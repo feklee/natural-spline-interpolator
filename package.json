@@ -1,0 +1,19 @@
+{
+    "name": "natural-spline-interpolator",
+    "version": "1.0.0",
+    "author": "Felix E. Klee <felix.klee@inka.de>",
+    "homepage": "https://github.com/feklee/natural-spline-interpolator",
+    "description": "Interpolates and extrapolates between a set of points",
+    "dependencies": {
+        "tridiagonal-solve": "1.x"
+    },
+    "main": "node_main.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/feklee/natural-spline-interpolator"
+    },
+    "license": "MIT",
+    "keywords" : ["natural", "splines", "interpolation", "extrapolation",
+                  "math", "mathematics", "numeric", "cubic"],
+    "bugs": "https://github.com/feklee/natural-spline-interpolator/issues"
+}
