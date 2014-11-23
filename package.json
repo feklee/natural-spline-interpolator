@@ -1,6 +1,6 @@
 {
     "name": "natural-spline-interpolator",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "Felix E. Klee <felix.klee@inka.de>",
     "homepage": "https://github.com/feklee/natural-spline-interpolator",
     "description": "Interpolation and extrapolation based on a set of points",
