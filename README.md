@@ -15,7 +15,7 @@ Code (`plotPoint` function not included):
     var interpolator = require('natural-spline-interpolator'),
         f = interpolator([[-2, 2], [-1, -0.5], [0, 0.5], [1.5, -1.5]]);
 
-    for (x = -2; x < 2; x += 0.000001) {
+    for (x = -3; x < 3; x += 0.000001) {
         plotPoint(x, f(x));
     }
 
